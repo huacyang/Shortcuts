@@ -1,2 +1,2 @@
-Mac-Shortcuts
+Shortcuts
 =============
