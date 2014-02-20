@@ -3,7 +3,7 @@ Mac Shortcut
 These shortcuts are _with respect to_ the __Mac__ desktop.  
 Individual applications will have its own customized shortcuts.
 
-| Action									| Key Combination |
+| Key Combination							| Action |
 | ------									| ------ |
 | `Command` + `A`							| Select all items |
 | `Command` + `C`							| _Copy_ selected item(s) |
