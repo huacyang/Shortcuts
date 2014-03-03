@@ -1,5 +1,5 @@
-Mac Shortcut
-===
+## Mac Shortcut
+
 These shortcuts are _with respect to_ the __Mac__ desktop.  
 Individual applications will have its own customized shortcuts.
 
