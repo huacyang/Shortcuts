@@ -1,123 +1,163 @@
-#ASCII
+## Mathematic Functions
+
+| HEX       |         | HTML       | Description |
+| --------- | ------- | ---------- | ----------- |
+| `&#37;`   | &#37;   |            | Percent sign |
+| `&#40;`   | &#40;   |            | Open parenthesis |
+| `&#41;`   | &#41;   |            | Close parenthesis |
+| `&#43;`   | &#43;   | `&plus;`   | Plus |
+| `&#45;`   | &#45;   | `&minus;`  | Minus |
+| `&#60;`   | &#60;   | `&lt;`     | Less than |
+| `&#61;`   | &#61;   |            | Equal to |
+| `&#62;`   | &#62;   | `&gt;`     | Greater than |
+| `&#172;`  | &#172;  | `&not;`    | Not |
+| `&#177;`  | &#177;  | `&plusmn;` | Plus & minus |
+| `&#178;`  | &#178;  | `&sup2;`   | Superscript 2 (Squared) |
+| `&#179;`  | &#179;  | `&sup3;`   | Superscript 3 (Cubed) |
+| `&#185;`  | &#185;  | `&sup1;`   | Superscript 1 |
+| `&#188;`  | &#188;  | `&frac14;` | One quarter |
+| `&#189;`  | &#189;  | `&frac12;` | One half |
+| `&#190;`  | &#190;  | `&frac34;` | Three quaters |
+| `&#215;`  | &#215;  | `&times;`  | Multiplication |
+| `&#247;`  | &#247;  | `&divide;` | Division |
+| `&#402;`  | &#402;  |            | Small f with hook (function) |
+| `&#8240;` | &#8240; |            | Per mile (per thousand) |
+| `&#8260;` | &#8260; |            | Fraction slash |
+| `&#8539;` | &#8539; |            | One eighth |
+| `&#8540;` | &#8540; |            | Three eighth |
+| `&#8542;` | &#8542; |            | Seven eighth |
+| `&#8706;` | &#8706; |            | Partial differential |
+| `&#8710;` | &#8710; |            | Increment |
+| `&#8719;` | &#8719; |            | N-ary product |
+| `&#8721;` | &#8721; |            | N-ary sum |
+| `&#8730;` | &#8730; |            | Square root |
+| `&#8734;` | &#8735; |            | Infinity |
+| `&#8747;` | &#8747; |            | Integral |
+| `&#8800;` | &#8800; |            | Not equal to |
+| `&#8801;` | &#8801; |            | Identical to |
+| `&#8804;` | &#8804; | `&le;`     | Less than or equal to |
+| `&#8805;` | &#8805; | `&ge;`     | Greater than or equal to |
+| `&#8735;` | &#8735; |            | Right angle |
+| `&#8745;` | &#8745; |            | Intersection |
 
 ## Special Characters
 
-| HEX | Name | Symbol | HTML |
-| ---- | ------ | ---- | --- |
-| `&#32;` | Space | &#32; | |
-| `&#33;` | Exclamation Mark | &#33; | `&excl;` |
-| `&#34;` | Double Quotes | &#34; | `&quot;` |
-| `&#35;` | Hashtag | &#35; | |
-| `&#36;` | Dollar Sign | &#36; | |
-| `&#37;` | Percent Sign | &#37; | |
-| `&#38;` | Ampersand | &#38; | `&amp;` |
-| `&#39;` | Single Quote | &#39; | |
-| `&#40;` | Open Parenthesis | &#40; | |
-| `&#41;` | Close Parenthesis | &#41; | |
-| `&#42;` | Asterisk | &#42; | |
-| `&#43;` | Plus | &#43; | `&plus;` |
-| `&#44;` | Comma | &#44; | `&comma;` |
-| `&#45;` | Minus | &#45; | `&minus;` |
-| `&#46;` | Period | &#46; | `&period;` |
-| `&#47;` | Slash | &#47; | |
-| `&#58;` | Colon | &#58; | `&colon;` |
-| `&#59;` | Semi-colon | &#59; | |
-| `&#60;` | Less Than | &#60; | `&lt;` |
-| `&#61;` | Equal | &#61; | |
-| `&#62;` | Greater Than | &#62; | `&lt;` |
-| `&#63;` | Question Mark | &#63; | |
-| `&#64;` | At | &#64; | |
-| `&#91;` | Open Bracket | &#91; | |
-| `&#92;` | Backslash | &#92; | |
-| `&#93;` | Close Bracket | &#93; | |
-| `&#94;` | Caret | &#94; | |
-| `&#95;` | Underscore | &#95; | |
-| `&#96;` | Grave Accent | &#96; | |
-| `&#123;` | Open Brace | &#123; | |
-| `&#124;` | Vertical Bar | &#124; | |
-| `&#125;` | Close Brace | &#125; | |
-| `&#126;` | Tilde | &#126; | |
-| `&#160;` | Non-breaking Space | &#160; | `&nbsp;` |
-| `&#161;` | Inverted Exclamation Mark | &#161; | `&iexcl;` |
-| `&#162;` | Cent | &#162; | `&cent;` |
-| `&#163;` | Pound | &#163; | `&pound;` |
-| `&#164;` | Currency | &#164; | `&curren;` |
-| `&#165;` | Yen | &#165; | `&yen;` |
-| `&#166;` | Broken Vertical Bar | &#166; | `&brvbar;` |
-| `&#167;` | Section | &#167; | `&sect;` |
-| `&#168;` | Spacing Diaeresis | &#168; | `&uml;` |
-| `&#169;` | Copyright | &#169; | `&copy;` |
-| `&#170;` | Female Ordinal | &#170; | `&ordf;` |
-| `&#171;` | Left Double Angle Quotes | &#171; | `&laquo;` |
-| `&#172;` | Not | &#172; | `&not;` |
-| `&#173;` | Soft Hyphen | &#173; | `&shy;` |
-| `&#174;` | Registered Trade Mark | &#174; | `&reg;` |
-| `&#175;` | Spacing Macron | &#175; | `&mac;` |
-| `&#176;` | Degree | &#176; | `&deg;` |
-| `&#177;` | Plus & Minus | &#177; | `&plusmn;` |
-| `&#178;` | Squared | &#178; | `&sup2;` |
-| `&#179;` | Cubed | &#179; | `&sup3;` |
-| `&#180;` | Acute Accent | &#180; | `&acute;` |
-| `&#181;` | Micro | &#181; | `&micro;` |
-| `&#182;` | Paragraph | &#182; | `&para;` |
-| `&#183;` | Middle Dot | &#183; | `&middot;` |
-| `&#184;` | Spacing Cedilla | &#184; | `&cedil;` |
-| `&#185;` | Superscript 1 | &#185; | `&sup1;` |
-| `&#186;` | Masculine Ordinal | &#186; | `&ordm;` |
-| `&#187;` | Right Double Angle Quotes | &#187; | `&raquo;` |
-| `&#188;` | One Quarter | &#188; | `&frac14;` |
-| `&#189;` | One Half | &#189; | `&frac12;` |
-| `&#190;` | Three Quaters | &#190; | `&frac34;` |
-| `&#191;` | Inverted Question Mark | &#191; | `&iquest;` |
+| HEX       |         | HTML       | Description |
+| --------- | ------- | ---------- | ----------- |
+| `&#32;`   | &#32;   |            | Space |
+| `&#33;`   | &#33;   | `&excl;`   | Exclamation mark |
+| `&#34;`   | &#34;   | `&quot;`   | Double quotes |
+| `&#35;`   | &#35;   |            | Hashtag |
+| `&#36;`   | &#36;   |            | Dollar sign |
+| `&#38;`   | &#38;   | `&amp;`    | Ampersand |
+| `&#39;`   | &#39;   |            | Single quote |
+| `&#42;`   | &#42;   |            | Asterisk |
+| `&#44;`   | &#44;   | `&comma;`  | Comma |
+| `&#46;`   | &#46;   | `&period;` | Period |
+| `&#47;`   | &#47;   |            | Slash |
+| `&#58;`   | &#58;   | `&colon;`  | Colon | 
+| `&#59;`   | &#59;   |            | Semi-colon |
+| `&#63;`   | &#63;   |            | Question mark |
+| `&#64;`   | &#64;   |            | At |
+| `&#91;`   | &#91;   |            | Open bracket |
+| `&#92;`   | &#92;   |            | Backslash |
+| `&#93;`   | &#93;   |            | Close bracket |
+| `&#94;`   | &#94;   |            | Caret |
+| `&#95;`   | &#95;   |            | Underscore |
+| `&#96;`   | &#96;   |            | Grave accent |
+| `&#123;`  | &#123;  |            | Open brace |
+| `&#124;`  | &#124;  |            | Vertical bar |
+| `&#125;`  | &#125;  |            | Close brace |
+| `&#126;`  | &#126;  |            | Tilde |
+| `&#160;`  | &#160;  | `&nbsp;`   | Non-breaking space |
+| `&#161;`  | &#161;  | `&iexcl;`  | Inverted exclamation mark |
+| `&#162;`  | &#162;  | `&cent;`   | Cent sign |
+| `&#163;`  | &#163;  | `&pound;`  | Pound sign |
+| `&#164;`  | &#164;  | `&curren;` | Currency sign |
+| `&#165;`  | &#165;  | `&yen;`    | Yen sign |
+| `&#166;`  | &#166;  | `&brvbar;` | Broken vertical bar |
+| `&#167;`  | &#167;  | `&sect;`   | Section |
+| `&#168;`  | &#168;  | `&uml;`    | Spacing diaeresis |
+| `&#169;`  | &#169;  | `&copy;`   | Copyright |
+| `&#170;`  | &#170;  | `&ordf;`   | Female ordinal |
+| `&#171;`  | &#171;  | `&laquo;`  | Left double angle quotes |
+| `&#173;`  | &#173;  | `&shy;`    | Soft hyphen |
+| `&#174;`  | &#174;  | `&reg;`    | Registered trade mark |
+| `&#175;`  | &#175;  | `&mac;`    | Spacing macron |
+| `&#176;`  | &#176;  | `&deg;`    | Degree |
+| `&#180;`  | &#180;  | `&acute;`  | Acute accent |
+| `&#181;`  | &#181;  | `&micro;`  | Micro |
+| `&#182;`  | &#182;  | `&para;`   | Paragraph |
+| `&#183;`  | &#183;  | `&middot;` | Middle dot |
+| `&#184;`  | &#184;  | `&cedil;`  | Spacing cedilla |
+| `&#186;`  | &#186;  | `&ordm;`   | Masculine ordinal |
+| `&#187;`  | &#187;  | `&raquo;`  | Right double angle quotes |
+| `&#191;`  | &#191;  | `&iquest;` | Inverted question mark |
+| `&#8211;` | &#8211; |            | En dash |
+| `&#8212;` | &#8212; |            | Em dash |
+| `&#8216;` | &#8216; |            | Left single quotation mark |
+| `&#8217;` | &#8217; |            | Right single quotation mark |
+| `&#8218;` | &#8218; |            | Single low-9 quotation mark |
+| `&#8220;` | &#8220; |            | Left double quotation mark |
+| `&#8221;` | &#8221; |            | Right double quotation mark |
+| `&#8222;` | &#8222; |            | Double low-9 quotation mark |
+| `&#8224;` | &#8224; |            | Dagger |
+| `&#8225;` | &#8225; |            | Double dagger |
+| `&#8226;` | &#8226; |            | Bullet |
+| `&#8230;` | &#8230; |            | Horizontal ellipsis |
+| `&#8364;` | &#8364; |            | Euro sign |
+| `&#8482;` | &#8482; |            | Trade mark sign |
+| `&#8729;` | &#8729; |            | Small bullet |
 
-## Number
 
-| HEX | Name | Symbol | HTML |
-| ---- | ------ | ---- | --- |
-| `&#48;` | Zero | &#48; | |
-| `&#49;` | One | &#49; | |
-| `&#50;` | Two | &#50; | |
-| `&#51;` | Three | &#51; | |
-| `&#52;` | Four | &#52; | |
-| `&#53;` | Five | &#53; | |
-| `&#54;` | Six | &#54; | |
-| `&#55;` | Seven | &#55; | |
-| `&#56;` | Eight | &#56; | |
-| `&#57;` | Nine | &#57; | |
+## Numbers
 
-## Letter
+| HEX     |       | Description |
+| ------- | ----- | ----------- |
+| `&#48;` | &#48; | Zero |
+| `&#49;` | &#49; | One |
+| `&#50;` | &#50; | Two |
+| `&#51;` | &#51; | Three |
+| `&#52;` | &#52; | Four |
+| `&#53;` | &#53; | Five |
+| `&#54;` | &#54; | Six |
+| `&#55;` | &#55; | Seven |
+| `&#56;` | &#56; | Eight |
+| `&#57;` | &#57; | Nine |
 
-| HEX | Name |
-| --- | ---- |
-| `&#65;` | &#65; |
-| `&#66;` | &#66; |
-| `&#67;` | &#67; |
-| `&#68;` | &#68; |
-| `&#69;` | &#69; |
-| `&#70;` | &#70; |
-| `&#71;` | &#71; |
-| `&#72;` | &#72; |
-| `&#73;` | &#73; |
-| `&#74;` | &#74; |
-| `&#75;` | &#75; |
-| `&#76;` | &#76; |
-| `&#77;` | &#77; |
-| `&#78;` | &#78; |
-| `&#79;` | &#79; |
-| `&#80;` | &#80; |
-| `&#81;` | &#81; |
-| `&#82;` | &#82; |
-| `&#83;` | &#83; |
-| `&#84;` | &#84; |
-| `&#85;` | &#85; |
-| `&#86;` | &#86; |
-| `&#87;` | &#87; |
-| `&#88;` | &#88; |
-| `&#89;` | &#89; |
-| `&#90;` | &#90; |
-| `&#97;` | &#97; |
-| `&#98;` | &#98; |
-| `&#99;` | &#99; |
+## Letters
+
+| HEX      |        |
+| -------- | ------ |
+| `&#65;`  | &#65;  |
+| `&#66;`  | &#66;  |
+| `&#67;`  | &#67;  |
+| `&#68;`  | &#68;  |
+| `&#69;`  | &#69;  |
+| `&#70;`  | &#70;  |
+| `&#71;`  | &#71;  |
+| `&#72;`  | &#72;  |
+| `&#73;`  | &#73;  |
+| `&#74;`  | &#74;  |
+| `&#75;`  | &#75;  |
+| `&#76;`  | &#76;  |
+| `&#77;`  | &#77;  |
+| `&#78;`  | &#78;  |
+| `&#79;`  | &#79;  |
+| `&#80;`  | &#80;  |
+| `&#81;`  | &#81;  |
+| `&#82;`  | &#82;  |
+| `&#83;`  | &#83;  |
+| `&#84;`  | &#84;  |
+| `&#85;`  | &#85;  |
+| `&#86;`  | &#86;  |
+| `&#87;`  | &#87;  |
+| `&#88;`  | &#88;  |
+| `&#89;`  | &#89;  |
+| `&#90;`  | &#90;  |
+| `&#97;`  | &#97;  |
+| `&#98;`  | &#98;  |
+| `&#99;`  | &#99;  |
 | `&#100;` | &#100; |
 | `&#101;` | &#101; |
 | `&#102;` | &#102; |
@@ -142,26 +182,74 @@
 | `&#121;` | &#121; |
 | `&#122;` | &#122; |
 
-## Latin Letter
+## Latin Letters
 
-| HEX | Name | Symbol | HTML |
-| ---- | ------ | ---- | --- |
-| `&#192;` | A with Grave | &#192; | `&Agrave;` |
-| `&#193;` | A with Acute | &#193; | `&Aacute;` |
-| `&#194;` | A with Circumflex | &#194; | `&Acirc;` |
-| `&#195;` | A with Tilde | &#195; | `&Atilde;` |
-| `&#196;` | A with Diaeresis | &#196; | `&Auml;` |
-| `&#197;` | A with Ring Above | &#197; | `&Aring;` |
-| `&#198;` | AE | &#198; | `&AElig;` |
-| `&#199;` | C with Cedila | &#199; | `&Ccedil;` |
-| `&#200;` | E with Grave | &#200; | `&Egrave;` |
-| `&#201;` | E with Acute | &#201; | `&Eacute;` |
-| `&#202;` | E with Circumflex | &#202; | `&Ecirc;` |
-| `&#203;` | E with Diaeresis | &#203; | `&Euml;` |
-| `&#204;` | I with Grave | &#204; | `&Igrave;` |
-| `&#205;` | I with Acute | &#205; | `&Iacute;` |
-| `&#206;` | I with Circumflex | &#206; | `&Icirc;` |
-| `&#207;` | I with Diaeresis | &#207; | `&Iuml;` |
-| `&#208;` |  | &#208; | |
-| `&#209;` |  | &#209; | |
-| `&#210;` |  | &#210; | |
+| HEX      |        | HTML       | Description |
+| -------- | ------ | ---------- | ----------- |
+| `&#192;` | &#192; | `&Agrave;` | Capital A with grave |
+| `&#193;` | &#193; | `&Aacute;` | Capital A with acute |
+| `&#194;` | &#194; | `&Acirc;`  | Capital A with circumflex |
+| `&#195;` | &#195; | `&Atilde;` | Capital A with tilde |
+| `&#196;` | &#196; | `&Auml;`   | Capital A with diaeresis |
+| `&#197;` | &#197; | `&Aring;`  | Capital A with ring above |
+| `&#198;` | &#198; | `&AElig;`  | Capital AE |
+| `&#199;` | &#199; | `&Ccedil;` | Capital C with cedila |
+| `&#200;` | &#200; | `&Egrave;` | Capital E with grave |
+| `&#201;` | &#201; | `&Eacute;` | Capital E with acute |
+| `&#202;` | &#202; | `&Ecirc;`  | Capital E with circumflex |
+| `&#203;` | &#203; | `&Euml;`   | Capital E with diaeresis |
+| `&#204;` | &#204; | `&Igrave;` | Capital I with grave |
+| `&#205;` | &#205; | `&Iacute;` | Capital I with acute |
+| `&#206;` | &#206; | `&Icirc;`  | Capital I with circumflex |
+| `&#207;` | &#207; | `&Iuml;`   | Capital I with diaeresis |
+| `&#208;` | &#208; | `&ETH;`    | Capital ETH |
+| `&#209;` | &#209; | `&Ntilde;` | Capital N with tilde |
+| `&#210;` | &#210; | `&Ograve;` | Capital O with grave |
+| `&#211;` | &#211; | `&Oacute;` | Capital O with acute  |
+| `&#212;` | &#212; | `&Ocirc;`  | Capital O with circumflex |
+| `&#213;` | &#213; | `&Otilde;` | Capital O with tilde |
+| `&#214;` | &#214; | `&Ouml;`   | Capital O with diaeresis |
+| `&#216;` | &#216; | `&Oslash;` | Capital O with slash |
+| `&#217;` | &#217; | `&Ugrave;` | Capital U with grave |
+| `&#218;` | &#218; | `&Uacute;` | Capital U with acute |
+| `&#219;` | &#219; | `&Ucirc;`  | Capital U with circumflex |
+| `&#220;` | &#220; | `&Uuml;`   | Capital U with diaeresis |
+| `&#221;` | &#221; | `&Yacute;` | Capital Y with acute |
+| `&#222;` | &#222; | `&THORN;`  | Capital thorn |
+| `&#223;` | &#223; | `&szlig;`  | Beta  |
+| `&#224;` | &#224; | `&agrave;` | Small a with grave |
+| `&#225;` | &#225; | `&aacute;` | Small a with acute |
+| `&#226;` | &#226; | `&acirc;`  | Small a with circumflex |
+| `&#227;` | &#227; | `&atilde;` | Small a with tilde |
+| `&#228;` | &#228; | `&auml;`   | Small a with diaeresis |
+| `&#229;` | &#229; | `&aring;`  | Small a with ring above |
+| `&#230;` | &#230; | `&aelig;`  | Small ae |
+| `&#231;` | &#231; | `&ccedil;` | Small c with cedilla |
+| `&#232;` | &#232; | `&egrave;` | Small e with grave |
+| `&#233;` | &#233; | `&eacute;` | Small e with acute |
+| `&#234;` | &#234; | `&ecirc;`  | Small e with circumflex |
+| `&#235;` | &#235; | `&euml;`   | Small e with diaeresis |
+| `&#236;` | &#236; | `&igrave;` | Small i with grave |
+| `&#237;` | &#237; | `&iacute;` | Small i with acute |
+| `&#238;` | &#238; | `&icirc;`  | Small i with circumflex |
+| `&#239;` | &#239; | `&iuml;`   | Small i with diaeresis |
+| `&#240;` | &#240; | `&eth;`    | Small eth |
+| `&#241;` | &#241; | `&ntilde;` | Small n with tilde |
+| `&#242;` | &#242; | `&ograve;` | Small o with grave |
+| `&#243;` | &#243; | `&oacute;` | Small o with acute |
+| `&#244;` | &#244; | `&ocirc;`  | Small o with circumflex |
+| `&#245;` | &#245; | `&otilde;` | Small o with tilde |
+| `&#246;` | &#246; | `&ouml;`   | Small o with diaeresis |
+| `&#248;` | &#248; | `&oslash;` | Small o with slash |
+| `&#249;` | &#249; | `&ugrave;` | Small u with grave |
+| `&#250;` | &#250; | `&uacute;` | Small u with acute |
+| `&#251;` | &#251; | `&ucirc;`  | Small u with circumflex |
+| `&#252;` | &#252; | `&uuml;`   | Small u with diaeresis |
+| `&#253;` | &#253; | `&yacute;` | Small y with acute |
+| `&#254;` | &#254; | `&thorn;`  | Small thorn |
+| `&#255;` | &#255; | `&yuml;`   | Small y with diaeresis |
+| `&#338;` | &#338; |            | Capital OE |
+| `&#339;` | &#339; |            | Small oe |
+| `&#352;` | &#352; |            | Capital S with caron |
+| `&#353;` | &#353; |            | Small s with caron |
+| `&#376;` | &#376; |            | Capital Y with diaeresis |
