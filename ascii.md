@@ -37,6 +37,7 @@
 | `&#8801;` | &#8801; |            | Identical to |
 | `&#8804;` | &#8804; | `&le;`     | Less than or equal to |
 | `&#8805;` | &#8805; | `&ge;`     | Greater than or equal to |
+| `&#8712;` | &#8712; | `&isin;`   | Element of |
 | `&#8735;` | &#8735; |            | Right angle |
 | `&#8745;` | &#8745; |            | Intersection |
 
@@ -55,7 +56,7 @@
 | `&#44;`   | &#44;   | `&comma;`  | Comma |
 | `&#46;`   | &#46;   | `&period;` | Period |
 | `&#47;`   | &#47;   |            | Slash |
-| `&#58;`   | &#58;   | `&colon;`  | Colon | 
+| `&#58;`   | &#58;   | `&colon;`  | Colon |
 | `&#59;`   | &#59;   |            | Semi-colon |
 | `&#63;`   | &#63;   |            | Question mark |
 | `&#64;`   | &#64;   |            | At |
@@ -108,7 +109,6 @@
 | `&#8364;` | &#8364; |            | Euro sign |
 | `&#8482;` | &#8482; |            | Trade mark sign |
 | `&#8729;` | &#8729; |            | Small bullet |
-
 
 ## Numbers
 
@@ -245,6 +245,7 @@
 | `&#250;` | &#250; | `&uacute;` | Small u with acute |
 | `&#251;` | &#251; | `&ucirc;`  | Small u with circumflex |
 | `&#252;` | &#252; | `&uuml;`   | Small u with diaeresis |
+| `&#373;` | &#373; |            | Small w with circumflex |
 | `&#253;` | &#253; | `&yacute;` | Small y with acute |
 | `&#254;` | &#254; | `&thorn;`  | Small thorn |
 | `&#255;` | &#255; | `&yuml;`   | Small y with diaeresis |
