@@ -6,7 +6,7 @@
 | `&#40;`   | &#40;   |            | Open parenthesis |
 | `&#41;`   | &#41;   |            | Close parenthesis |
 | `&#43;`   | &#43;   | `&plus;`   | Plus |
-| `&#45;`   | &#45;   | `&minus;`  | Minus |
+| `&#45;`   | &#45;   |            | Minus |
 | `&#60;`   | &#60;   | `&lt;`     | Less than |
 | `&#61;`   | &#61;   |            | Equal to |
 | `&#62;`   | &#62;   | `&gt;`     | Greater than |
@@ -25,21 +25,47 @@
 | `&#8260;` | &#8260; |            | Fraction slash |
 | `&#8539;` | &#8539; |            | One eighth |
 | `&#8540;` | &#8540; |            | Three eighth |
+| `&#8541;` | &#8541; |            | Five eighth |
 | `&#8542;` | &#8542; |            | Seven eighth |
-| `&#8706;` | &#8706; |            | Partial differential |
+| `&#8704;` | &#8704; | `&forall;` | Select all
+| `&#8706;` | &#8706; | `&part;`   | Partial differential |
+| `&#8707;` | &#8707; | `&exist;`  | There exists |
+| `&#8709;` | &#8709; | `&empty;`  | Empty (null) set |
 | `&#8710;` | &#8710; |            | Increment |
-| `&#8719;` | &#8719; |            | N-ary product |
-| `&#8721;` | &#8721; |            | N-ary sum |
-| `&#8730;` | &#8730; |            | Square root |
-| `&#8734;` | &#8735; |            | Infinity |
-| `&#8747;` | &#8747; |            | Integral |
-| `&#8800;` | &#8800; |            | Not equal to |
-| `&#8801;` | &#8801; |            | Identical to |
+| `&#8712;` | &#8712; | `&isin;`   | Element of |
+| `&#8713;` | &#8713; | `&notin;`  | Not an element of |
+| `&#8715;` | &#8715; | `&ni;`     | Contains as member |
+| `&#8719;` | &#8719; | `&prod;`   | N-ary product |
+| `&#8721;` | &#8721; | `&sum;`    | N-ary sum |
+| `&#8722;` | &#8722; | `&minus;`  | Minus (long) |
+| `&#8727;` | &#8727; | `&lowast;` | Asterisk (operation) |
+| `&#8730;` | &#8730; | `&radic;`  | Square root |
+| `&#8733;` | &#8733; | `&prop;`   | Proportional to |
+| `&#8734;` | &#8734; | `&infin;`  | Infinity |
+| `&#8735;` | &#8735; |            | Right angle |
+| `&#8736;` | &#8736; | `&ang;`    | Angle |
+| `&#8743;` | &#8743; | `&and;`    | Logical and |
+| `&#8744;` | &#8744; | `&or;`     | Logical or |
+| `&#8745;` | &#8745; | `&cap;`    | Intersection |
+| `&#8746;` | &#8746; | `&cup;`    | Union |
+| `&#8747;` | &#8747; | `&int;`    | Integral |
+| `&#8756;` | &#8756; | `&there4;` | Therefore |
+| `&#8764;` | &#8764; | `&sim;`    | Tilde; Varies; Similar |
+| `&#8773;` | &#8773; | `&cong;`   | Approximately equal to |
+| `&#8776;` | &#8776; | `&asymp;`  | Almost equal to |
+| `&#8800;` | &#8800; | `&ne;`     | Not equal to |
+| `&#8801;` | &#8801; | `&equiv;`  | Identical to |
 | `&#8804;` | &#8804; | `&le;`     | Less than or equal to |
 | `&#8805;` | &#8805; | `&ge;`     | Greater than or equal to |
-| `&#8712;` | &#8712; | `&isin;`   | Element of |
-| `&#8735;` | &#8735; |            | Right angle |
-| `&#8745;` | &#8745; |            | Intersection |
+| `&#8834;` | &#8834; | `&sub;`    | Subset of |
+| `&#8835;` | &#8835; | `&sup;`    | Superset of |
+| `&#8836;` | &#8836; | `&nsub;`   | Not a subset of |
+| `&#8838;` | &#8838; | `&sube;`   | Subset of or equal to |
+| `&#8839;` | &#8839; | `&supe;`   | Superset of or equal to |
+| `&#8853;` | &#8853; | `&oplus;`  | Plus (circled) |
+| `&#8855;` | &#8855; | `&otimes;` | Times (circled) |
+| `&#8869;` | &#8869; | `&perp;`   | Up tack |
+| `&#8901;` | &#8901; | `&sdot;`   | Dot (operation)|
 
 ## Special Characters
 
@@ -52,7 +78,7 @@
 | `&#36;`   | &#36;   |            | Dollar sign |
 | `&#38;`   | &#38;   | `&amp;`    | Ampersand |
 | `&#39;`   | &#39;   |            | Single quote |
-| `&#42;`   | &#42;   |            | Asterisk |
+| `&#42;`   | &#42;   |            | Asterisk (star) |
 | `&#44;`   | &#44;   | `&comma;`  | Comma |
 | `&#46;`   | &#46;   | `&period;` | Period |
 | `&#47;`   | &#47;   |            | Slash |
